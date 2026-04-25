@@ -1,3 +1,1 @@
-
-
-# Pyexpo2k26-Team-FD
+# Pyexpo2k26-Team- Architecture Diagrams
